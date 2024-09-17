@@ -1,7 +1,5 @@
-# TravelTide
-[Tableau](https://public.tableau.com/app/profile/natalia.syrychenko/viz/TravelTideCustomerSegmentation_17255559951330/TravelTide_Customer_Segmentation?publish=yes)
-
 # TravelTide Customer Segmentation
+[Tableau](https://public.tableau.com/app/profile/natalia.syrychenko/viz/TravelTideCustomerSegmentation_17255559951330/TravelTide_Customer_Segmentation?publish=yes)
 
 This project showcases customer segmentation analysis for **TravelTide**, a fictional travel company. The analysis was performed to categorize customers into meaningful segments based on various demographic and behavioral factors. This segmentation allows for better understanding of the customer base, enabling more targeted marketing and business strategies.
 

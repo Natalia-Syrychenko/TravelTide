@@ -1,4 +1,4 @@
-# TravelTide Customer Segmentation
+# TravelTide Customer Segmentation Tableau
 [Tableau](https://public.tableau.com/app/profile/natalia.syrychenko/viz/TravelTideCustomerSegmentation_17255559951330/TravelTide_Customer_Segmentation?publish=yes)
 <img width="794" alt="Screenshot 2024-09-17 at 18 35 17" src="https://github.com/user-attachments/assets/47f3e3f6-1b86-40b5-8cc5-d71109341522">
 

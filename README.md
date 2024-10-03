@@ -4,6 +4,10 @@
 
 This project showcases customer segmentation analysis for **TravelTide**, a fictional travel company. The analysis was performed to categorize customers into meaningful segments based on various demographic and behavioral factors. This segmentation allows for better understanding of the customer base, enabling more targeted marketing and business strategies.
 
+## Folder Structure
+- /TravelTide_Customer_Segmentation_SQL_/ - SQL scripts used for exploring the dataset.
+- /TravelTide_presentation_Syrychenko/ - Final presentation.
+  
 ## Project Overview 
 
 The customer segmentation is visualized through a dashboard created using data visualization techniques. The segments are categorized by:

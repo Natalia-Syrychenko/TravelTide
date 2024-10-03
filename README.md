@@ -10,19 +10,24 @@ This project showcases customer segmentation analysis for **TravelTide**, a fict
   
 ## Project Overview 
 
-The customer segmentation is visualized through a dashboard created using data visualization techniques. The segments are categorized by:
-- **Age Group**
-- **Marital Status**
-- **Parenting Status**
-- **Gender**
+The TravelTide project focuses on segmenting customer data to provide data-driven recommendations that help enhance customer retention. The project is carried out for TravelTide, a fast-growing e-booking startup that has seen steady growth since its inception in 2021. The goal is to support the Head of Marketing, Elena Tarrant, by understanding customer behavior and creating personalized marketing strategies to encourage customers to sign up for the company's new rewards program.
+
+The project is divided into four main stages, each building on the previous one:
+
+- **Exploratory Data Analysis (EDA)**
+- **Feature Engineering**
+- **Customer Segmentation**
+- **Presentation of Results**
   
 ### Key Customer Segments:
-- **Business Traveler** (18.34%)
-- **Luxury Travelers** (18.19%)
-- **Solo Travelers** (15.94%)
-- **Hesitant Customers/Early Bookers** (16.09%)
-- **Budget Travelers** (14.09%)
-- **Loyal Customers** (11.22%)
+
+- **Business Traveler (18.34%):** *Free Access to Airport Lounge*
+- **Luxury Travelers (18.19%):** *Free hotel night*
+- **Hesitant Customers / Early bookers (16.09%):** *Free cancellation*
+- **Solo (15.94%):** *Free checked bag*
+- **Budget Travelers (14.09%):** *Discount on excursions and car rental*
+- **Loyal Customers (11.22%):** *Free Airport Transfers*
+- **Others:** *Welcome drink*
 
 ## Tools and Technologies
 - **Tableau**: Used for creating the interactive dashboard

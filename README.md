@@ -21,7 +21,7 @@ The project is divided into four main stages, each building on the previous one:
 - **Customer Segmentation**
 - **Presentation of Results**
   
-### Key Customer Segments and Data Insights:
+## Project Outcome: Customer Segmentation and Perk Strategy
 - **Business Traveler (18.34%):** *Free Access to Airport Lounge*
 - **Luxury Travelers (18.19%):** *Free hotel night*
 - **Hesitant Customers / Early bookers (16.09%):** *Free cancellation*
@@ -30,7 +30,9 @@ The project is divided into four main stages, each building on the previous one:
 - **Loyal Customers (11.22%):** *Free Airport Transfers*
 - **Others (6,14%):** *Welcome drink*
 
+## Data Insights:
   Through the segmentation, the following insights were gathered:
+  
 - Business travelers and luxury travelers make up the largest customer groups.
 - A significant portion of solo travelers fall into the 36-50 age range.
 - Majority of our clients are women.
